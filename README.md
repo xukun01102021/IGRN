@@ -1,1 +1,1 @@
-# IGRN
+In order to facilitate researchers to study intercellular communication, here we provide two methods for constructing intercellular gene regulatory networks. Gene regulatory network(GRN) includes (ligand-receptor-transcription factor-target genes)
