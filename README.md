@@ -1,2 +1,3 @@
 We constructed a gene regulatory network composed of four elements: ligand-receptor-transcription factor (TF)-target. The construction of gene regulatory network is divided into four steps. First, we applied Nichenet to obtain the intercellular signal transduction network and construct ligand-receptor-TF-target links (network 1.0); second, we verified the ligand-receptor (L-R) pairs of the gene regulatory network through CellPhoneDB, retaining overlap Ligand-receptor pairs and their downstream signals (Network 2.0); Third, use SCENIC to validate Network 2.0's TF-target pairs. Retain the validated TF-targets of Network 2.0 (Network 3.0); fourth, use differentially expressed genes (DEGs) to filter important signals of Network 3.0 (Network 4.0).
-![image](https://github.com/xukun01102021/IGRN/assets/106895814/25360679-8390-4f8f-b045-4a7d4c416352)
+![image](https://github.com/xukun01102021/IGRN/assets/106895814/0cf8ab58-f4b9-477d-ae90-5b76eecc3913)
+
